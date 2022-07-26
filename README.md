@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JaeHoon&fontSize=90)
 
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 
 👋 Hi there!! I'm web developer who uses Pro-C in the financial sector !!! 🚀 I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂 I want to be a IOS app developer.
 
