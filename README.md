@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Eclipse-000?style=flat&logo=Eclipse&logoColor="/> <img src="https://img.shields.io/badge/Intellij IDEA-000?style=flat&logo=Intellij IDEA&logoColor="/> <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=Oracle&logoColor="/> <img src="https://img.shields.io/badge/Mysql-000?style=flat&logo=Mysql&logoColor="/> <img src="https://img.shields.io/badge/MSSQL-000?style=flat&logo=MSSQL&logoColor="/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=june1105)](https://solved.ac/june1105)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={june1105})](https://solved.ac/{june1105})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseak1105)](https://github.com/junseak1105/github-readme-stats)
 [![JaeHoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseak1105)](https://github.com/junseak1105/github-readme-stats)
