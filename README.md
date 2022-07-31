@@ -5,11 +5,9 @@
 
 ## 👊 Main Skills
 <img src="https://img.shields.io/badge/Spring-000?style=flat&logo=Spring&logoColor=green"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/App Store-0D96F6?style=flat&logo=App Store&logoColor=white"/> <img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=white"/>
 
 ## ✍ Sub Skills
 <img src="https://img.shields.io/badge/C-000?style=flat&logo=C&logoColor="/> <img src="https://img.shields.io/badge/Java-000?style=flat&logo=Java&logoColor="/> <img src="https://img.shields.io/badge/Python-000?style=flat&logo=Python&logoColor="/> <img src="https://img.shields.io/badge/Javascript-000?style=flat&logo=Javascript&logoColor="/> <img src="https://img.shields.io/badge/Sencha-000?style=flat&logo=Sencha&logoColor="/> <img src="https://img.shields.io/badge/Spring-000?style=flat&logo=Spring&logoColor="/> <img src="https://img.shields.io/badge/PHP-000?style=flat&logo=PHP&logoColor="/> <img src="https://img.shields.io/badge/Html5-000?style=flat&logo=Html5&logoColor="/> <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=CSS3&logoColor="/>
