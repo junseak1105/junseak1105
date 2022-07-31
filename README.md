@@ -5,14 +5,13 @@
 
 ## 👊 Main Skills
 <img src="https://img.shields.io/badge/Spring-000?style=flat&logo=Spring&logoColor=green"/>
-
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-000?style=flat&logo=Java&logoColor="/>
 
 
 ## ✍ Sub Skills
-<img src="https://img.shields.io/badge/C-000?style=flat&logo=C&logoColor="/> <img src="https://img.shields.io/badge/Java-000?style=flat&logo=Java&logoColor="/> <img src="https://img.shields.io/badge/Python-000?style=flat&logo=Python&logoColor="/> <img src="https://img.shields.io/badge/Javascript-000?style=flat&logo=Javascript&logoColor="/> <img src="https://img.shields.io/badge/Sencha-000?style=flat&logo=Sencha&logoColor="/> <img src="https://img.shields.io/badge/Spring-000?style=flat&logo=Spring&logoColor="/> <img src="https://img.shields.io/badge/PHP-000?style=flat&logo=PHP&logoColor="/> <img src="https://img.shields.io/badge/Html5-000?style=flat&logo=Html5&logoColor="/> <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=CSS3&logoColor="/>
+<img src="https://img.shields.io/badge/C-000?style=flat&logo=C&logoColor="/> <img src="https://img.shields.io/badge/Javascript-000?style=flat&logo=Javascript&logoColor="/><img src="https://img.shields.io/badge/PHP-000?style=flat&logo=PHP&logoColor="/> <img src="https://img.shields.io/badge/Html5-000?style=flat&logo=Html5&logoColor="/> <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=CSS3&logoColor="/>
 
-<img src="https://img.shields.io/badge/Eclipse-000?style=flat&logo=Eclipse&logoColor="/> <img src="https://img.shields.io/badge/Intellij IDEA-000?style=flat&logo=Intellij IDEA&logoColor="/> <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=Oracle&logoColor="/> <img src="https://img.shields.io/badge/Mysql-000?style=flat&logo=Mysql&logoColor="/> <img src="https://img.shields.io/badge/MSSQL-000?style=flat&logo=MSSQL&logoColor="/>
+<img src="https://img.shields.io/badge/Eclipse-000?style=flat&logo=Eclipse&logoColor="/>  <img src="https://img.shields.io/badge/Oracle-000?style=flat&logo=Oracle&logoColor="/> <img src="https://img.shields.io/badge/Mysql-000?style=flat&logo=Mysql&logoColor="/> <img src="https://img.shields.io/badge/MSSQL-000?style=flat&logo=MSSQL&logoColor="/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=june1105)](https://solved.ac/june1105/)
 
