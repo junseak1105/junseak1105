@@ -4,7 +4,7 @@
 👋 Hi there!! I'm web developer who uses Pro-C in the financial sector !!! 🚀 I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂 I want to be a IOS app developer.
 
 ## 👊 Main Skills
-<img src="https://img.shields.io/badge/Spring-000?style=flat&logo=Spring&logoColor=green"/><img src="https://img.shields.io/badge/Java-000?style=flat&logo=Java&logoColor="/>
+<img src="https://img.shields.io/badge/Spring-000?style=flat&logo=Spring&logoColor=green"/><img src="https://img.shields.io/badge/Java-000?style=flat&logo=Java&logoColor="/><img src="https://img.shields.io/badge/Java-000?style=flat&logo=JSP&logoColor="/>
 
 
 ## ✍ Sub Skills
