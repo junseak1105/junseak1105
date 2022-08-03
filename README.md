@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Developer_JaeHoon&fontSize=90)
 
 
-👋 Hi there!! I'm web developer who uses Pro-C in the financial sector !!! 🚀 I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂 I want to be a IOS app developer.
+👋 Hi there!!
 
 ## 👊 Main Skills
 <img src="https://img.shields.io/badge/Spring-000?style=flat&logo=Spring&logoColor=green"/><img src="https://img.shields.io/badge/Java-000?style=flat&logo=Java&logoColor="/><img src="https://img.shields.io/badge/JSP-000?style=flat&logo=JSP&logoColor="/>
