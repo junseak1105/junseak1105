@@ -12,7 +12,7 @@
 
 ## ✍ Sub Skills
 <img src="https://img.shields.io/badge/C-000?style=flat&logo=C&logoColor="/> <img src="https://img.shields.io/badge/PHP-000?style=flat&logo=PHP&logoColor="/> <img src="https://img.shields.io/badge/ReactNative-000?style=flat&logo=React&logoColor="/> <img src="https://img.shields.io/badge/asp-007396?style=flat&logo=&logoColor="/>
-{% include feature_row id="feature_row_sub_skills"%}
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=june1105)](https://solved.ac/june1105/)
